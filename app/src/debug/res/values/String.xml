@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DebugRaiseRobot</string>
+    <string name="compile_level">debug</string>
+</resources>

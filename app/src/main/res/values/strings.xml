@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RaiseRobot</string>
+    <string name="compile_level">release</string>
+</resources>
